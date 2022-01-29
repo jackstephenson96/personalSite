@@ -305,20 +305,32 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "Some stuff I wrote for a course (that I still stand by)",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://medium.com/@jackstephenson96/dont-lie-to-yourself-you-cant-stop-checking-your-smartphone-40c2036bf0db",
+      title: "Smart Phones: Who Uses Who?",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "You have a smartphone in your pocket, I can almost guarantee it. In fact, it is becoming impossible to function without one. From my own…"
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url: "https://medium.com/@jackstephenson96/witch-hunts-the-age-of-cognitive-surplus-ef7dbe8ef5f6",
+      title: "Witch Hunts in the Age of Cognitive Surplus",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "In 2013, two terrorists detonated improvised explosive devices at the finish line of the Boston Marathon. People across the United States…"
+    },
+    {
+      url: "https://medium.com/@jackstephenson96/who-are-you-589a992a0d56",
+      title: "Who are you?",
+      description:
+        "The desire to answer this unanswerable question is the force behind the journey to its answer. Much of our childhood and adolescent life is…"
+    },
+    {
+      url: "https://medium.com/@jackstephenson96/big-brother-is-watching-you-2d1576c107f7",
+      title: "Big Brother is Watching You",
+      description:
+        "(and so is Google, Amazon, and the cops)"
     }
   ],
   display: true // Set false to hide this section, defaults to true
