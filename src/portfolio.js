@@ -306,7 +306,7 @@ const blogSection = {
   title: "Blogs",
   subtitle:
     "Some stuff I wrote for a course (that I still stand by)",
-  displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
+  displayMediumBlogs: "false", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
       url: "https://medium.com/@jackstephenson96/dont-lie-to-yourself-you-cant-stop-checking-your-smartphone-40c2036bf0db",
